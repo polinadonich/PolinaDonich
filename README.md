@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here is What i`m working on
-
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning online course Full Stack Developer from GoIt
